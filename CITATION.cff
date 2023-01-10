@@ -1,4 +1,4 @@
-# GitHub citation metadata for lab-website-template itself
+# GitHub citation metadata for lab-website itself
 
 cff-version: 1.2.0
 authors:
@@ -11,4 +11,4 @@ authors:
 title: "Lab Website Template"
 version: 0.6.1
 date-released: 2022-06-22
-url: "https://github.com/greenelab/lab-website-template"
+url: "https://github.com/girayeryilmaz/lab-website"
