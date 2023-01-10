@@ -4,7 +4,7 @@ title: Home
 
 # Your Lab Slogan
 
-[Lab Website Template](https://github.com/girayeryilmaz/lab-website) is an easy-to-use, flexible website template for [labs](https://www.girayeryilmaz.com/), with automatic citations, GitHub tag imports, pre-built components, and more.
+[Lab Website Template](https://github.com/ucarlab/website) is an easy-to-use, flexible website template for [labs](https://www.girayeryilmaz.com/), with automatic citations, GitHub tag imports, pre-built components, and more.
 Spend less time reinventing the wheel, and more time running your lab.
 
 {%
@@ -12,7 +12,7 @@ Spend less time reinventing the wheel, and more time running your lab.
   type="github"
   icon=""
   text="See the template on GitHub"
-  link="girayeryilmaz/lab-website"
+  link="ucarlab/website"
   style="button"
 %}
 {%
@@ -20,7 +20,7 @@ Spend less time reinventing the wheel, and more time running your lab.
   type="docs"
   icon=""
   text="See the documentation"
-  link="https://github.com/girayeryilmaz/lab-website/wiki"
+  link="https://github.com/ucarlab/website/wiki"
   style="button"
 %}
 {:.center}
